@@ -35,7 +35,7 @@
         <div class="row">
             <div class="container">
 
-                <img class="img-fluid" src="imagenes/Logo Taller.jpg" align="center" style="border: 4px solid; color: black;" alt="" width="680" height="608">
+                <img class="img-fluid" src="Logo Taller.jpg" align="center" style="border: 4px solid; color: black;" alt="" width="680" height="608">
             </div>
         </div><br><br><br>
 
@@ -50,7 +50,7 @@
                     <br>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img src="imagenes/culata.jpg" alt="" heigth="185"  width="230" style="border: 4px solid; color: black;"> <svg class="bd-placeholder-img card-img-top" width="100%" height="0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"></svg>
+                            <img src="culata.jpg" alt="" heigth="185"  width="230" style="border: 4px solid; color: black;"> <svg class="bd-placeholder-img card-img-top" width="100%" height="0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"></svg>
                             <div class="card-body">
                                 <p class="card-text"><h5>¿Qué significa rectificar el motor de mi vehículo?</h5><br>
 
@@ -71,7 +71,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img src="imagenes/lugar.jpg" height="350" style="border: 4px solid; color: black;" width="300">  <svg class="bd-placeholder-img card-img-top" width="100%" height="0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"></svg>
+                            <img src="lugar.jpg" height="350" style="border: 4px solid; color: black;" width="300">  <svg class="bd-placeholder-img card-img-top" width="100%" height="0" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"></svg>
                         </div>
                     </div>
                 </div>
